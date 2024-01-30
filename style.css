@@ -1,0 +1,87 @@
+/* color variable */
+
+:root{
+    --red:#f42625;
+    --white:#fcf5f5;
+    --black:#000000;
+}
+
+/* navbar styling */
+#navbar-items{
+    gap: 30px;
+}
+#navbar{
+    padding: 0px 10px;
+}
+
+#main-logo{
+    width: 165px;
+}
+.nav-link{
+    text-decoration: none;
+}
+#franchise{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+    margin-left: 1px;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+    
+    
+}
+#red{
+    color: var(--red);
+}
+#btn-icon{
+    padding: 5px 7px; 
+}
+
+#children-images{
+    gap: 30px;
+}
+/* big image */
+
+#large-img{
+    width: 50rem;
+}
+
+#franchise-village{
+    background-color: green;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+    margin-left: 1px;
+
+}
+
+/*footer*/
+#underline{
+    text-decoration: none;
+}
+
+/* feedback */
+#Confirm-Password{
+    width: 380px;
+    height: 50px;
+}
+#Email-Adress{
+    width: 380px;
+    height: 50px;
+}
+#Password{
+    width: 380px;
+height: 50px;
+}
+#padding{
+    padding-left: 100px;
+}
+/* feedback*/
+#margin{
+    margin: 20px 350px 50px;
+}
